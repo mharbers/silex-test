@@ -1,0 +1,12 @@
+{
+  "name": "mhobbink/silex-test",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "require": {
+    "silex/silex": "v2.0.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4"
+  }
+}
